@@ -28,6 +28,3 @@ All about me.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vimalokby-max&show_icons=true&locale=en&layout=compact" alt="vimalokby-max" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vimalokby-max&show_icons=true&locale=en" alt="vimalokby-max" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vimalokby-max&" alt="vimalokby-max" /></p>
